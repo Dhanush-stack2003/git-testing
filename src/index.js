@@ -1,2 +1,2 @@
-console.log("version 1");
-console.log("update begins")
+console.log("version 2");
+console.log("updating")
